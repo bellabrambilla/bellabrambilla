@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bellabrambilla
-- 👀 I’m interested in horror movies, UX design, beer, books and arts.
-- 🌱 I’m currently learning HTML, Javascript, CSS.
-- 💞️ I’m looking to collaborate on projects with purpose.
+- 👀 I’m interested in horror movies, vegan, UX design, beer, books and arts.
+- 🌱 I’m currently learning HTML, Javascript, CSS and prototyping..
+- 💞️ I’m looking forward to collaborate on projects with purpose.
 - 📫 How to reach me: www.linkedin.com/in/isabella-brambilla/
 
 <!---
